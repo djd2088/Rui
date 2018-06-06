@@ -12,8 +12,10 @@ Android一站式开发框架
 |2|[Purples_BaseMvp](http://gank.io/post/560e15be2dca930e00da1083)|BaseMvp版|
 |3|[Purples_GogMvp_Dagger2](http://gank.io/post/560e15be2dca930e00da1083)|谷歌推荐Mvp + Dagger2版|
 
+---
 
-使用到的第三方库：
+使用到的第三方库:
+
 1.网络请求封装 : RxJava + Retrofit
 
 2.图片加载 : [Glide](https://github.com/bumptech/glide)
