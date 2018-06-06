@@ -10,9 +10,9 @@ Android一站式开发框架
 
 | 序号 | 项目名 | 描述 |
 |:---|:---:|:---:|
-|1|[Purples](http://gank.io/post/560e15be2dca930e00da1083)|基础版|
-|2|[Purples_BaseMvp](http://gank.io/post/560e15be2dca930e00da1083)|BaseMvp版|
-|3|[Purples_GogMvp_Dagger2](http://gank.io/post/560e15be2dca930e00da1083)|谷歌推荐Mvp + Dagger2版|
+|1|[Purples](https://github.com/djd2088/Purples)|基础版|
+|2|[Purples_BaseMvp](https://github.com/djd2088/Purples_BaseMvp)|BaseMvp版|
+|3|[Purples_GogMvp_Dagger2](https://github.com/djd2088/Purples_GogMvp_Dagger2)|谷歌推荐Mvp + Dagger2版|
 
 ---
 
