@@ -37,3 +37,15 @@ Android一站式开发框架
 9.RxJava网络请求导致的内存泄漏解决方案 : [RxLifecycle](https://github.com/trello/RxLifecycle) （第三版本已经替换）
 
 10.Banner : [ConvenientBanner](https://github.com/Bigkoo/Android-ConvenientBanner) / [Banner](https://github.com/youth5201314/banner)
+
+
+更多基础使用请移步博客：[ConvenientBanner](https://blog.csdn.net/u010046451)
+
+**如有建议或者发现BUG，或者有意一起维护Rui，欢迎联系！**
+
+**Email:djd2088@qq.com **
+
+**QQ:137714205
+
+**博客地址:https://blog.csdn.net/u010046451
+
