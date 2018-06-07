@@ -41,11 +41,13 @@ Android一站式开发框架
 
 更多基础使用请移步博客：[ConvenientBanner](https://blog.csdn.net/u010046451)
 
-**如有建议或者发现BUG，或者有意一起维护Rui，欢迎联系！**
+---
 
-**Email:djd2088@qq.com **
+**如有建议或者发现BUG，或者有意一起维护Rui，期待您的联系！**
 
-**QQ:137714205
+Email:djd2088@qq.com 
 
-**博客地址:https://blog.csdn.net/u010046451
+QQ:137714205
+
+博客地址:https://blog.csdn.net/u010046451
 
