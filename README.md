@@ -45,9 +45,9 @@ Android一站式开发框架  **视频地址 ：
 
 **如有建议或者发现BUG，或者有意一起维护Rui，期待您的联系！**
 
-Email:djd2088@qq.com 
+Email : djd2088@qq.com 
 
-QQ:137714205
+QQ : 137714205
 
-博客地址:https://blog.csdn.net/u010046451
+博客地址 : https://blog.csdn.net/u010046451
 
