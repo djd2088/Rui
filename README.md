@@ -12,7 +12,7 @@ Android一站式开发框架  **视频地址 ：
 ---
 
 
-| 序号 | 项目名 | 描述 |
+| 版本 | 项目名 | 描述 |
 |:---|:---:|:---:|
 |1|[Purples](https://github.com/djd2088/Purples)|基础版|
 |2|[Purples_BaseMvp](https://github.com/djd2088/Purples_BaseMvp)|BaseMvp版|
